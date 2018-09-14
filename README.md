@@ -20,7 +20,7 @@ automatically through robots.</p>
 <img src="Depression.png"></img>
 </p>
 
-<a href="<iframe width="1146" height="645" src="https://www.youtube.com/embed/SLEdsI731J4?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>" target="_blank">
+<a href="https://www.youtube.com/embed/SLEdsI731J4?ecver=1" target="_blank">
 <img src="https://www.youtube.com/watch?v=SLEdsI731J4"
      alt="IMAGE ALT TEXT HERE"
      width="240"

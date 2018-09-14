@@ -2,6 +2,14 @@
 
 <p>The project about the grocies with only apples oranges and chocolate boxes that are sorted and put in the warehouse
 automatically through robots.</p>
+
+### To Do List ###
+
+- [] Groceries going into warehouse
+- [] Grocieries being put in storage
+- [] Groceries being requested
+- [] Groceries being taken out and packaged according to the requested
+- [] Groceries being delivered
 <img src="https://i.kym-cdn.com/entries/icons/original/000/021/245/crippling_depression.jpg"></img>
 <img src="https://i.ytimg.com/vi/t6YjvlSGx8M/maxresdefault.jpg"></img>
 <img src="https://vignette.wikia.nocookie.net/steven-universe/images/4/49/Kitchen_gun.png/revision/latest?cb=20151021170602"></img>

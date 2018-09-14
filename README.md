@@ -21,9 +21,5 @@ automatically through robots.</p>
 </p>
 
 <a href="https://www.youtube.com/embed/SLEdsI731J4?ecver=1" target="_blank">
-<img src="https://www.youtube.com/watch?v=SLEdsI731J4"
-     alt="IMAGE ALT TEXT HERE"
-     width="240"
-     height="180"
-     border="10" />
+
 </a>

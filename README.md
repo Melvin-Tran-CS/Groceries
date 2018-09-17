@@ -10,6 +10,14 @@ automatically through robots.</p>
 - [] Groceries being requested
 - [] Groceries being taken out and packaged according to the requested
 - [] Groceries being delivered
+- [] Name of object
+- [] Shape
+- [] Dimensions
+     - [] Length
+     - [] Width
+     - [] Height
+     - [] Diameter
+- [] Carrying Capacity
 
 <p>
 <img src="https://i.kym-cdn.com/entries/icons/original/000/021/245/crippling_depression.jpg"></img>
